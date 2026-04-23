@@ -26,6 +26,12 @@ Robotics engineer based in **Daejeon, South Korea**, building full-stack autonom
 </td>
 <td width="50%">
 
+### Platforms
+- Serving Robots
+- AMR (Autonomous Mobile Robots)
+- Mecanum-wheel Platforms
+- AMMR (Autonomous Mobile Manipulation Robots)
+
 ### Clients
 - **KAI** (Korea Aerospace Industries)
 - Large-scale logistics centers
