@@ -85,6 +85,7 @@ Production AMR navigation system with 2D/3D LiDAR SLAM — deployed at logistics
 
 ### 🔒 HandheldSLAM
 Handheld 3D mapping device with real-time LiDAR SLAM for large-scale environments
+<br/><img src="assets/handheld-slam.png" width="220" alt="HandheldSLAM device"/>
 <br/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Private-grey?style=flat-square"/>
 
 </td>
