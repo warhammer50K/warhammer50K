@@ -76,25 +76,9 @@ Robotics engineer based in **Daejeon, South Korea**, building full-stack autonom
 <tr>
 <td width="50%" valign="top">
 
-### 🔒 SLAMNAV2
-Production AMR navigation system with 2D/3D LiDAR SLAM — deployed at logistics centers and KAI
-<br/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Private-grey?style=flat-square"/>
-
-</td>
-<td width="50%" valign="top">
-
 ### 🔒 HandheldSLAM
 Handheld 3D mapping device with real-time LiDAR SLAM for large-scale environments
 <br/><img src="assets/handheld-slam.png" width="220" alt="HandheldSLAM device"/>
-<br/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Private-grey?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔒 FMS2
-Fleet Management System coordinating 30+ AMRs with MAPF-based task allocation
 <br/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Private-grey?style=flat-square"/>
 
 </td>
