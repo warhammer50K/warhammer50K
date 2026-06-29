@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=230&section=header&text=Jaeyeol%20Song&fontSize=50&fontColor=70a5fd&fontAlignY=35&desc=Robotics%20Engineer%20%7C%20LiDAR%20SLAM%20%7C%20Multi-Agent%20Systems&descSize=18&descColor=a9fef7&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <img src="assets/handheld-slam-map.png" width="100%" alt="LiDAR point cloud map"/>
+  <img src="assets/handheld-slam-map.png" height="150" alt="LiDAR point cloud map"/>
+  <img src="assets/hero-2.png" height="150" alt="AMR fleet in logistics center"/>
+  <img src="assets/hero-3.png" height="150" alt="2D SLAM multi-agent map"/>
 </p>
 
 <p align="center">
