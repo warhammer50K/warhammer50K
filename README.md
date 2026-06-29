@@ -111,6 +111,7 @@ Demo videos of AMRs and SLAM systems in action
 
 ### [WebPointCloud](https://github.com/warhammer50K/WebPointCloud)
 Web-based 3D point cloud viewer & analysis tool — no install, runs in the browser. Supports LAS, LAZ, PLY, PCD, XYZ, PTS
+<br/><img src="assets/webpointcloud.png" width="420" alt="WebPointCloud viewer"/>
 <br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Public-238636?style=flat-square"/>
 
 </td>
