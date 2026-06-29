@@ -78,7 +78,8 @@ Robotics engineer based in **Daejeon, South Korea**, building full-stack autonom
 
 ### 🔒 HandheldSLAM
 Handheld 3D mapping device with real-time LiDAR SLAM for large-scale environments
-<br/><img src="assets/handheld-slam.png" height="210" alt="HandheldSLAM device"/> <img src="assets/handheld-slam-map.png" height="210" alt="HandheldSLAM mapping result"/>
+<br/><img src="assets/handheld-slam.png" height="210" alt="HandheldSLAM device"/>
+<br/><img src="assets/handheld-slam-map.png" width="420" alt="HandheldSLAM mapping result"/>
 <br/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Private-grey?style=flat-square"/>
 
 </td>
