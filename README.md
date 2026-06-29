@@ -87,7 +87,7 @@ Handheld 3D mapping device with real-time LiDAR SLAM for large-scale environment
 ### [WebPointCloud](https://github.com/warhammer50K/WebPointCloud)
 Web-based 3D point cloud viewer & analysis tool — no install, runs in the browser. Supports LAS, LAZ, PLY, PCD, XYZ, PTS
 <br/><img src="assets/webpointcloud.png" width="420" alt="WebPointCloud viewer"/>
-<br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Public-238636?style=flat-square"/>
+<br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Public-238636?style=flat-square"/> <img src="https://img.shields.io/github/stars/warhammer50K/WebPointCloud?style=flat-square&logo=github&label=%E2%98%85&color=yellow"/>
 
 </td>
 </tr>
@@ -96,14 +96,14 @@ Web-based 3D point cloud viewer & analysis tool — no install, runs in the brow
 
 ### [sam2-oakd-realtime](https://github.com/warhammer50K/sam2-oakd-realtime)
 Real-time object segmentation with Meta SAM 2.1 + OAK-D Lite via FastAPI
-<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Public-238636?style=flat-square"/>
+<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Public-238636?style=flat-square"/> <img src="https://img.shields.io/github/stars/warhammer50K/sam2-oakd-realtime?style=flat-square&logo=github&label=%E2%98%85&color=yellow"/>
 
 </td>
 <td width="50%" valign="top">
 
 ### [blackfly-gige-viewer](https://github.com/warhammer50K/blackfly-gige-viewer)
 FLIR Blackfly GigE camera viewer using Spinnaker SDK (C++17)
-<br/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Public-238636?style=flat-square"/>
+<br/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Public-238636?style=flat-square"/> <img src="https://img.shields.io/github/stars/warhammer50K/blackfly-gige-viewer?style=flat-square&logo=github&label=%E2%98%85&color=yellow"/>
 
 </td>
 </tr>
