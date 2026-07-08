@@ -67,8 +67,9 @@ Robotics engineer based in **Daejeon, South Korea**, building full-stack autonom
 
 | Domain | Tools & Libraries |
 |--------|-------------------|
-| **SLAM** | LIO-SAM, FAST-LIO2, A-LOAM, Point-LIO, VINS-Mono |
-| **Optimization** | GTSAM, Scan Context |
+| **SLAM (studied / re-implemented)** | FAST-LIO2, LIO-SAM, Point-LIO, A-LOAM |
+| **Libraries** | GTSAM, PCL, Open3D, Eigen |
+| **Place Recognition** | Scan Context |
 | **Point Cloud** | PCL, Open3D |
 | **Vision** | OpenCV, Meta SAM 2.1, Zivid SDK |
 | **Hardware** | Velodyne, Livox, FLIR Blackfly, Luxonis OAK-D, u-blox GPS |
