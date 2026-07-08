@@ -38,7 +38,7 @@ Robotics engineer based in **Daejeon, South Korea**, building full-stack autonom
 - AMMR (Autonomous Mobile Manipulation Robots)
 
 ### Clients
-- **KAI** (Korea Aerospace Industries)
+- Aerospace manufacturing (precision drilling automation)
 - Large-scale logistics centers
 
 </td>
@@ -55,7 +55,7 @@ Robotics engineer based in **Daejeon, South Korea**, building full-stack autonom
 | **Navigation** | Autonomous navigation with MAPF for warehouse AMR fleets |
 | **Fleet Management** | FMS coordinating 30+ robots in large-scale operations |
 | **3D Vision** | Structured light, depth camera calibration, real-time segmentation, robotic shoe bonding |
-| **Industrial AMR** | End-to-end deployment at KAI and large-scale logistics centers |
+| **Industrial AMR** | End-to-end deployment in aerospace manufacturing and large-scale logistics centers |
 
 ---
 
