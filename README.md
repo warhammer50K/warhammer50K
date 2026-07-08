@@ -8,7 +8,9 @@
   <img src="assets/hero-3.png" height="150" alt="2D SLAM multi-agent map"/>
 </p>
 
-I build autonomous mobile robot systems end to end — from LiDAR-inertial SLAM and localization to fleet-level coordination. In industry since 2022: 30+ AMRs deployed across a 23,000 m² logistics center, precision drilling automation for aerospace manufacturing, and a handheld 3D mapping device built from the ground up.
+I build autonomous mobile robot systems end to end — from LiDAR-inertial SLAM and localization to fleet-level coordination. I implement SLAM front-ends and back-ends from the equations up — ESIKF, on-manifold optimization, analytically derived ICP Jacobians — and I'm currently working on degeneracy-aware LiDAR-inertial odometry for solid-state sensors.
+
+In industry since 2022: 30+ AMRs deployed across a 23,000 m² logistics center, precision drilling automation for aerospace manufacturing, and a handheld 3D mapping device built from the ground up.
 
 Based in Daejeon, South Korea.
 
