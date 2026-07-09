@@ -29,6 +29,12 @@ Handheld 3D mapping device with real-time LiDAR SLAM for large-scale environment
 
 ▶ **[Watch it in action — real-time mapping demo](https://www.youtube.com/watch?v=pV2-1DkV4U4&t=122s)**
 
+### [WebPointCloud](https://github.com/warhammer50K/WebPointCloud)
+
+Web-based 3D point cloud viewer and analysis tool. No install, runs in the browser — LAS, LAZ, PLY, PCD, XYZ, PTS.
+
+<img src="assets/webpointcloud.jpg" width="420" alt="WebPointCloud viewer"/>
+
 ### [eskf-lio-core](https://github.com/warhammer50K/eskf-lio-core)
 
 The localization core of HandheldSLAM, open-sourced — an iterated error-state Kalman filter (18-dim state, on-manifold update, motion deskewing) written from the equations up, with the full derivation in the README. Ships a real Livox Mid-360 recording with ground truth: **1.4 cm ATE RMSE** out of the box.
@@ -50,12 +56,6 @@ python3 tools/plot_trajectory.py trajectory.txt \
 
 Dependencies: Eigen3, Sophus, TBB, spdlog, nlohmann-json (and matplotlib for the plot).
 </details>
-
-### [WebPointCloud](https://github.com/warhammer50K/WebPointCloud)
-
-Web-based 3D point cloud viewer and analysis tool. No install, runs in the browser — LAS, LAZ, PLY, PCD, XYZ, PTS.
-
-<img src="assets/webpointcloud.jpg" width="420" alt="WebPointCloud viewer"/>
 
 ### [imu-allan-calibration](https://github.com/warhammer50K/imu-allan-calibration)
 
