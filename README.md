@@ -23,8 +23,8 @@ Based in Daejeon, South Korea.
 Handheld 3D mapping device with real-time LiDAR SLAM for large-scale environments — custom hardware and the full software pipeline.
 
 <p>
-  <img src="assets/handheld-slam.jpg" height="160" alt="HandheldSLAM device"/>
-  <img src="assets/handheld-slam-map.jpg" height="160" alt="HandheldSLAM mapping result"/>
+  <img src="assets/handheld-slam.jpg" height="230" alt="HandheldSLAM device"/>
+  <img src="assets/handheld-slam-map.jpg" height="230" alt="HandheldSLAM mapping result"/>
 </p>
 
 ▶ **[Watch it in action — real-time mapping demo](https://www.youtube.com/watch?v=pV2-1DkV4U4&t=122s)**
@@ -33,7 +33,7 @@ Handheld 3D mapping device with real-time LiDAR SLAM for large-scale environment
 
 Web-based 3D point cloud viewer and analysis tool. No install, runs in the browser — LAS, LAZ, PLY, PCD, XYZ, PTS.
 
-<img src="assets/webpointcloud.jpg" width="420" alt="WebPointCloud viewer"/>
+<img src="assets/webpointcloud.jpg" width="560" alt="WebPointCloud viewer"/>
 
 ### [esikf-lio-core](https://github.com/warhammer50K/esikf-lio-core)
 
