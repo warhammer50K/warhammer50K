@@ -3,8 +3,8 @@
 **Robotics Engineer — LiDAR SLAM · Autonomous Navigation · Multi-Agent Fleet Systems**
 
 <p align="center">
-  <img src="assets/handheld-slam-map.png" height="150" alt="LiDAR point cloud map"/>
-  <img src="assets/hero-2.png" height="150" alt="AMR fleet in logistics center"/>
+  <img src="assets/handheld-slam-map.jpg" height="150" alt="LiDAR point cloud map"/>
+  <img src="assets/hero-2.jpg" height="150" alt="AMR fleet in logistics center"/>
   <img src="assets/hero-3.png" height="150" alt="2D SLAM multi-agent map"/>
 </p>
 
@@ -23,15 +23,21 @@ Based in Daejeon, South Korea.
 Handheld 3D mapping device with real-time LiDAR SLAM for large-scale environments — custom hardware and the full software pipeline.
 
 <p>
-  <img src="assets/handheld-slam.png" height="160" alt="HandheldSLAM device"/>
-  <img src="assets/handheld-slam-map.png" height="160" alt="HandheldSLAM mapping result"/>
+  <img src="assets/handheld-slam.jpg" height="160" alt="HandheldSLAM device"/>
+  <img src="assets/handheld-slam-map.jpg" height="160" alt="HandheldSLAM mapping result"/>
 </p>
+
+▶ **[Watch it in action — real-time mapping demo](https://www.youtube.com/watch?v=pV2-1DkV4U4&t=122s)**
 
 ### [WebPointCloud](https://github.com/warhammer50K/WebPointCloud)
 
 Web-based 3D point cloud viewer and analysis tool. No install, runs in the browser — LAS, LAZ, PLY, PCD, XYZ, PTS.
 
-<img src="assets/webpointcloud.png" width="420" alt="WebPointCloud viewer"/>
+<img src="assets/webpointcloud.jpg" width="420" alt="WebPointCloud viewer"/>
+
+### [imu-allan-calibration](https://github.com/warhammer50K/imu-allan-calibration)
+
+IMU noise characterization via Allan variance — extracts noise density and bias instability parameters for SLAM frameworks (GTSAM, LIO-SAM, FAST-LIO).
 
 ### [sam2-oakd-realtime](https://github.com/warhammer50K/sam2-oakd-realtime)
 
