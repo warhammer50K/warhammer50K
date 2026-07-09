@@ -41,6 +41,10 @@ Real-time object segmentation with Meta SAM 2.1 on an OAK-D Lite, served via Fas
 
 FLIR Blackfly GigE camera viewer built on the Spinnaker SDK, C++17.
 
+### [UDPCOMM](https://github.com/warhammer50K/UDPCOMM)
+
+Single-header, dependency-free C++11 library for exchanging plain structs over UDP — typed send/receive, framing, background receive thread. Born from joystick-to-robot teleoperation.
+
 ▶ Robots in action: [YouTube @SJY_Robotics](https://www.youtube.com/@SJY_Robotics)
 
 ---
