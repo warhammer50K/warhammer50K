@@ -37,7 +37,7 @@ Web-based 3D point cloud viewer and analysis tool. No install, runs in the brows
 
 ### [eskf-lio-core](https://github.com/warhammer50K/eskf-lio-core)
 
-The localization core of HandheldSLAM, open-sourced — an iterated error-state Kalman filter (18-dim state, on-manifold update, motion deskewing) written from the equations up, with the full derivation in the README. Ships a real Livox Mid-360 recording with ground truth: **1.4 cm ATE RMSE** out of the box.
+The localization core of HandheldSLAM, open-sourced — an iterated error-state Kalman filter (18-dim state, on-manifold update, motion deskewing) written from the equations up, with the full derivation in the README. Ships a real cross-session test: a Livox Mid-360 walk localized against a map built from a different session — **3.4 cm ATE RMSE** out of the box, reproducible in five commands.
 
 <img src="https://raw.githubusercontent.com/warhammer50K/eskf-lio-core/main/docs/example_localization.png" width="560" alt="ESIKF localization result on the bundled example recording"/>
 
@@ -51,7 +51,7 @@ tools/get_example_data.sh                        # real Mid-360 recording + map 
 ./build/eskf_lio_core example_data/params.json   # → trajectory.txt
 python3 tools/plot_trajectory.py trajectory.txt \
     --map example_data/eskf-lio-example/map.ply \
-    --gt  example_data/eskf-lio-example/gt_keyframes.txt   # → trajectory.png + ATE
+    --gt  example_data/eskf-lio-example/ref_keyframes.txt   # → trajectory.png + ATE
 ```
 
 Dependencies: Eigen3, Sophus, TBB, spdlog, nlohmann-json (and matplotlib for the plot).
