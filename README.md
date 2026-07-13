@@ -20,7 +20,7 @@ Based in Daejeon, South Korea.
 
 ### HandheldSLAM <sub>(private)</sub>
 
-Handheld 3D mapping device with real-time LiDAR SLAM for large-scale environments — custom hardware and the full software pipeline.
+Handheld 3D mapping device with real-time LiDAR SLAM for large-scale environments — custom hardware and the full software pipeline. The localization core is open-sourced as [esikf-lio-core](https://github.com/warhammer50K/esikf-lio-core) below.
 
 <p>
   <img src="assets/handheld-slam.jpg" height="230" alt="HandheldSLAM device"/>
@@ -73,14 +73,12 @@ FLIR Blackfly GigE camera viewer built on the Spinnaker SDK, C++17.
 
 Single-header, dependency-free C++11 library for exchanging plain structs over UDP — typed send/receive, framing, background receive thread. Born from joystick-to-robot teleoperation.
 
-▶ Robots in action: [YouTube @SJY_Robotics](https://www.youtube.com/@SJY_Robotics)
-
 ---
 
 ## Industry (2022–present)
 
 - **Warehouse AMR fleet** — 30+ robots in a 23,000 m² logistics center: SLAM-based localization, autonomous navigation, multi-agent path finding, and the fleet management system coordinating them.
-- **Aerospace manufacturing** — precision drilling automation.
+- **Aerospace manufacturing** — AMR control for precision drilling automation.
 - **3D vision** — structured light, depth camera calibration, real-time segmentation, robotic shoe bonding.
 - **Platforms** — serving robots, AMR, mecanum-wheel platforms, AMMR (mobile manipulation).
 
@@ -90,11 +88,11 @@ Single-header, dependency-free C++11 library for exchanging plain structs over U
 
 | | |
 |--|--|
-| **SLAM** <sub>studied / re-implemented</sub> | FAST-LIO2, LIO-SAM, Point-LIO, A-LOAM |
-| **Libraries** | GTSAM, PCL, Open3D, Eigen |
-| **Place Recognition** | Scan Context |
+| **SLAM** <sub>studied / re-implemented</sub> | FAST-LIO2, LIO-SAM, A-LOAM |
+| **Libraries** | GTSAM, PCL, Eigen |
+| **Place Recognition** <sub>personal projects</sub> | Scan Context, RING++ |
 | **Vision** | OpenCV, Meta SAM 2.1, Zivid SDK |
-| **Hardware** | Velodyne, Livox, FLIR Blackfly, Luxonis OAK-D, u-blox GPS |
+| **Hardware** | Livox, SOSLAB ML-X, FLIR Blackfly, Luxonis OAK-D |
 | **Stack** | C++, Python, ROS, Qt, Docker, Linux |
 
 ---
