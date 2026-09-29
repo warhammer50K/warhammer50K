@@ -8,7 +8,7 @@
   <img src="assets/hero-3.png" height="150" alt="2D SLAM multi-agent map"/>
 </p>
 
-I build autonomous mobile robot systems end to end — from LiDAR-inertial SLAM and localization to fleet-level coordination. I implement SLAM front-ends and back-ends from the equations up — ESIKF, on-manifold optimization, analytically derived ICP Jacobians — and I'm currently working on degeneracy-aware LiDAR-inertial odometry for solid-state sensors.
+I build autonomous mobile robot systems end to end — from LiDAR-inertial SLAM and localization to fleet-level coordination. I implement SLAM front-ends and back-ends from the equations up — ESIKF, on-manifold optimization, analytically derived ICP Jacobians — and I'm currently working on colorized handheld 3D mapping.
 
 In industry since 2022: 30+ AMRs deployed across a 23,000 m² logistics center, precision drilling automation for aerospace manufacturing, and a handheld 3D mapping device built from the ground up.
 
@@ -20,7 +20,7 @@ Based in Daejeon, South Korea.
 
 ### HandheldSLAM <sub>(private)</sub>
 
-Handheld 3D mapping device with real-time LiDAR SLAM for large-scale environments — custom hardware and the full software pipeline. The localization core is open-sourced as [esikf-lio-core](https://github.com/warhammer50K/esikf-lio-core) below.
+Handheld 3D mapping device with real-time LiDAR SLAM, RGB colorization with camera-LiDAR pose interpolation, RING++ loop closure, and accuracy/replay evaluation tools — custom hardware and the full software pipeline. The localization core is open-sourced as [esikf-lio-core](https://github.com/warhammer50K/esikf-lio-core) below.
 
 <p>
   <img src="assets/handheld-slam.jpg" height="230" alt="HandheldSLAM device"/>
@@ -31,7 +31,7 @@ Handheld 3D mapping device with real-time LiDAR SLAM for large-scale environment
 
 ### [WebPointCloud](https://github.com/warhammer50K/WebPointCloud)
 
-Web-based 3D point cloud viewer and analysis tool. No install, runs in the browser — LAS, LAZ, PLY, PCD, XYZ, PTS.
+Web-based 3D point cloud viewer and analysis tool — LAS, LAZ, PLY, PCD, XYZ, PTS. Supports ROS 2 live point-cloud streaming and out-of-core COPC conversion via optional untwine.
 
 <img src="assets/webpointcloud.jpg" width="560" alt="WebPointCloud viewer"/>
 
